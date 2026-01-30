@@ -1,0 +1,48 @@
+{
+    "U19_M8+": {
+        "Power": 390,
+        "Arc Length": 84,
+        "Effective Length": 70,
+        "Catch Angle": -55,
+        "Finish Angle": 33,
+        "Catch Slip": 6,
+        "Finish Slip": 8,
+        "Position of peak force": 33,
+        "Aver / Max Force": 55
+    },
+    "U19_M4-": {
+        "Power": 390,
+        "Arc Length": 84,
+        "Effective Length": 70,
+        "Catch Angle": -55,
+        "Finish Angle": 33,
+        "Catch Slip": 6,
+        "Finish Slip": 8,
+        "Position of peak force": 33,
+        "Aver / Max Force": 55
+    },
+
+
+    "U19_W8+": {
+        "Power": 240,
+        "Arc Length": 82,
+        "Effective Length": 62,
+        "Catch Angle": -52,
+        "Finish Angle": 33,
+        "Catch Slip": 9,
+        "Finish Slip": 11,
+        "Position of peak force": 33,
+        "Aver / Max Force": 55
+    },
+    "U19_W4-": {
+        "Power": 240,
+        "Arc Length": 82,
+        "Effective Length": 62,
+        "Catch Angle": -52,
+        "Finish Angle": 33,
+        "Catch Slip": 9,
+        "Finish Slip": 11,
+        "Position of peak force": 33,
+        "Aver / Max Force": 55
+    }
+}

@@ -1,0 +1,11 @@
+matplotlib
+pandas
+shiny
+shinywidgets
+faicons
+libsass
+dropbox
+requests
+ipyleaflet
+shinyswatch
+seaborn
